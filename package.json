@@ -1,6 +1,6 @@
 {
   "name": "wellington-bin",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "description": "wellington wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "astalick/wellington-bin",
