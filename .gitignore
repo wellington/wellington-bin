@@ -2,3 +2,4 @@ node_modules
 test/tmp
 vendor/*
 .DS_Store
+npm-debug.log
