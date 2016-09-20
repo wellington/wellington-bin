@@ -1,6 +1,6 @@
 {
   "name": "wellington-bin",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "wellington wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "wellington/wellington-bin",
@@ -33,6 +33,6 @@
     "mocha": "^2.2.4"
   },
   "config": {
-    "wtVersion": "1.0.2"
+    "wtVersion": "1.0.3"
   }
 }
