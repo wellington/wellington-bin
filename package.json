@@ -29,8 +29,8 @@
     "logalot": "^2.0.0"
   },
   "devDependencies": {
-    "bin-check": "^3.0.0",
-    "mocha": "^2.2.4"
+    "bin-check": "^4.0.1",
+    "mocha": "^3.0.2"
   },
   "config": {
     "wtVersion": "1.0.3"
